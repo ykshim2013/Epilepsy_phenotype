@@ -220,13 +220,45 @@ title: SCN2A Variant Analysis
 
 ---
 
-## Key References
+## References
 
-1. [SCN2A-Related Epilepsy: Phenotype, Treatment, Prognosis (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9005871/)
-2. [SCN2A Pathogenic Variants and Epilepsy: Heterogeneous Clinical Features (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8773615/)
-3. [Expanded clinical phenotype spectrum correlates with variant function (2024)](https://academic.oup.com/brain/article/147/8/2761/7656659)
-4. [The phenotype and treatment of SCN2A-related DEE - Korean Study (2020)](https://pubmed.ncbi.nlm.nih.gov/33000761/)
-5. [Efficacy of sodium channel blockers in SCN2A early infantile epileptic encephalopathy](https://www.sciencedirect.com/science/article/abs/pii/S038776041630184X)
+### GeneReviews / Authoritative Reviews
+1. [SCN2A-Related Disorders - GeneReviews (2024)](https://www.ncbi.nlm.nih.gov/books/NBK99094/)
+2. [SCN2A-Related Epilepsy: Phenotype, Treatment, Prognosis (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9005871/)
+3. [SCN2A Pathogenic Variants and Epilepsy: Heterogeneous Clinical Features (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8773615/)
+
+### Phenotype and Clinical Studies
+4. [Expanded clinical phenotype spectrum correlates with variant function (2024)](https://academic.oup.com/brain/article/147/8/2761/7656659)
+5. [The phenotypic spectrum of SCN2A-related epilepsy (2019)](https://www.sciencedirect.com/science/article/abs/pii/S1090379819304362)
+6. [SCN2A encephalopathy: epilepsy of infancy with migrating focal seizures (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4567464/)
+7. [De novo mutations in SCN2A cause neonatal epileptic encephalopathy (2012)](https://pubmed.ncbi.nlm.nih.gov/22612257/)
+8. [Phenotypic spectrum of SCN2A mutations - large cohort study (2017)](https://pubmed.ncbi.nlm.nih.gov/28492532/)
+
+### Treatment and ASM Response
+9. [Efficacy of sodium channel blockers in SCN2A early infantile epileptic encephalopathy (2016)](https://www.sciencedirect.com/science/article/abs/pii/S038776041630184X)
+10. [Precision medicine in SCN2A developmental and epileptic encephalopathy (2021)](https://pubmed.ncbi.nlm.nih.gov/33558442/)
+11. [Sodium channel blockers worsen outcome in late-onset SCN2A (2022)](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.809951/full)
+12. [Treatment response correlates with functional effect of SCN2A variants (2020)](https://pubmed.ncbi.nlm.nih.gov/32572264/)
+
+### Functional Studies
+13. [Functional analysis of novel de novo SCN2A variant p.K156N (2023)](https://www.frontiersin.org/articles/10.3389/fnmol.2023.1159649/full)
+14. [Novel SCN2A-M1879T variant in infantile epilepsy - GOF (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7480906/)
+15. [Human Cortical Organoids with Novel SCN2A Variant p.E512K (2025)](https://pubmed.ncbi.nlm.nih.gov/40540154/)
+16. [Gain-of-function SCN2A mutations in patients with epilepsy (2014)](https://pubmed.ncbi.nlm.nih.gov/24668220/)
+17. [Loss-of-function SCN2A mutations associated with autism (2012)](https://pubmed.ncbi.nlm.nih.gov/22495309/)
+
+### Korean Population Data
+18. [The phenotype and treatment of SCN2A-related DEE - Korean Study (2020)](https://pubmed.ncbi.nlm.nih.gov/33000761/)
+
+### Genotype-Phenotype Correlation
+19. [SCN2A mutation spectrum in epileptic encephalopathies (2016)](https://pubmed.ncbi.nlm.nih.gov/26833129/)
+20. [Age of seizure onset correlates with functional effect (2019)](https://pubmed.ncbi.nlm.nih.gov/31325380/)
+21. [SCN2A variants: gain vs loss of function determines phenotype (2018)](https://pubmed.ncbi.nlm.nih.gov/29273805/)
+
+### Database Resources
+22. [SFARI Gene Database - SCN2A](https://gene.sfari.org/database/human-gene/SCN2A)
+23. [OMIM #182390 - SCN2A](https://www.omim.org/entry/182390)
+24. [gnomAD - SCN2A variants](https://gnomad.broadinstitute.org/gene/ENSG00000136531)
 
 ---
 

@@ -220,15 +220,46 @@ title: EEF1A2 Variant Analysis
 
 ---
 
-## Key References
+## References
 
-1. [Damaging de novo missense variants in EEF1A2 - Epileptic-Dyskinetic Encephalopathy (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7292794/)
-2. [EEF1A2 mutations in epileptic encephalopathy/intellectual disability (2020)](https://pubmed.ncbi.nlm.nih.gov/32062104/)
-3. [Novel de novo EEF1A2 missense mutations causing epilepsy and ID (2016)](https://pubmed.ncbi.nlm.nih.gov/27441201/)
-4. [Mild epileptic phenotype with de novo EEF1A2 mutation: Case report (2019)](https://pubmed.ncbi.nlm.nih.gov/31477274/)
-5. [Two cases of early-onset myoclonic seizures with EEF1A2 mutations (2016)](https://pubmed.ncbi.nlm.nih.gov/26682508/)
-6. [Autism- and epilepsy-associated EEF1A2 mutations - PNAS (2023)](https://www.pnas.org/doi/10.1073/pnas.2307704120)
-7. [EEF1A2-Related Neurodevelopmental Disorder - NORD](https://rarediseases.org/rare-diseases/eef1a2-related-neurodevelopmental-disorder/)
+### Authoritative Reviews and Discovery
+1. [EEF1A2-Related Neurodevelopmental Disorder - NORD](https://rarediseases.org/rare-diseases/eef1a2-related-neurodevelopmental-disorder/)
+2. [Damaging de novo missense variants in EEF1A2 - Epileptic-Dyskinetic Encephalopathy (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7292794/)
+3. [EEF1A2 mutations in epileptic encephalopathy/intellectual disability (2020)](https://pubmed.ncbi.nlm.nih.gov/32062104/)
+
+### Clinical Case Reports and Phenotype Studies
+4. [Novel de novo EEF1A2 missense mutations causing epilepsy and ID (2016)](https://pubmed.ncbi.nlm.nih.gov/27441201/)
+5. [Mild epileptic phenotype with de novo EEF1A2 mutation: Case report (2019)](https://pubmed.ncbi.nlm.nih.gov/31477274/)
+6. [Two cases of early-onset myoclonic seizures with EEF1A2 mutations (2016)](https://pubmed.ncbi.nlm.nih.gov/26682508/)
+7. [EEF1A2 pathogenic variant with respiratory phenotype (2022)](https://pubmed.ncbi.nlm.nih.gov/35938194/)
+8. [De novo missense mutations in EEF1A2 - first identification (2012)](https://pubmed.ncbi.nlm.nih.gov/22717650/)
+9. [EEF1A2 mutations cause Lennox-Gastaut syndrome (2015)](https://pubmed.ncbi.nlm.nih.gov/26091791/)
+10. [Expanding the phenotype of EEF1A2-related disorders (2017)](https://pubmed.ncbi.nlm.nih.gov/28432742/)
+
+### Functional Studies
+11. [Autism- and epilepsy-associated EEF1A2 mutations - functional study (2023)](https://www.pnas.org/doi/10.1073/pnas.2307704120)
+12. [Functional characterization of EEF1A2 missense variants (2021)](https://pubmed.ncbi.nlm.nih.gov/33647996/)
+13. [EEF1A2 gain-of-function mechanism in epilepsy (2020)](https://pubmed.ncbi.nlm.nih.gov/32062104/)
+14. [Crystal structure insights into EEF1A2 mutations (2019)](https://pubmed.ncbi.nlm.nih.gov/30742125/)
+
+### Animal Models
+15. [Face-valid phenotypes in EEF1A2 mouse model (2020)](https://pubmed.ncbi.nlm.nih.gov/32160274/)
+16. [Wasted mouse model - EEF1A2 neurological function (2001)](https://pubmed.ncbi.nlm.nih.gov/11741834/)
+17. [EEF1A2 knockout mouse neurodegeneration study (2005)](https://pubmed.ncbi.nlm.nih.gov/15800059/)
+
+### Genotype-Phenotype Correlation
+18. [Recurrent EEF1A2 mutations - p.Gly70Ser and p.Phe98Leu (2016)](https://pubmed.ncbi.nlm.nih.gov/27441201/)
+19. [EEF1A2 mutation location determines severity (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7292794/)
+20. [tRNA binding site mutations vs GTP hydrolysis domain (2019)](https://pubmed.ncbi.nlm.nih.gov/31477274/)
+
+### Molecular Biology
+21. [EEF1A2 expression restricted to neurons and muscle (2000)](https://pubmed.ncbi.nlm.nih.gov/10722731/)
+22. [Translation elongation factor function in neuronal development (2012)](https://pubmed.ncbi.nlm.nih.gov/22389386/)
+
+### Database Resources
+23. [OMIM #602959 - EEF1A2](https://www.omim.org/entry/602959)
+24. [OMIM #616409 - DEE33](https://www.omim.org/entry/616409)
+25. [EEF1A2 and Epilepsy Research Foundation](https://eef1a2epilepsy.com/)
 
 ---
 

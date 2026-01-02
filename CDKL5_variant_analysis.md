@@ -266,16 +266,62 @@ title: CDKL5 Variant Analysis
 
 ---
 
-## Key References
+## References
 
+### GeneReviews / Authoritative Reviews
 1. [CDKL5 Deficiency Disorder - GeneReviews (2024)](https://www.ncbi.nlm.nih.gov/books/NBK602610/)
 2. [CDKL5 Deficiency Disorder-Related Epilepsy: Treatment Review (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9876658/)
-3. [Use of ketogenic diet in CDKL5 disorder: >100 patients (2017)](https://pubmed.ncbi.nlm.nih.gov/28605011/)
+3. [CDKL5 Deficiency Disorder - NORD](https://rarediseases.org/rare-diseases/cdkl5/)
+
+### Clinical Phenotype Studies
 4. [Caregiver's perception of epilepsy treatment in CDKL5 (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247997/)
-5. [Efficacy of ketogenic diet in CDKL5-related epilepsy: Meta-analysis (2022)](https://pubmed.ncbi.nlm.nih.gov/36274176/)
-6. [Retrospective evaluation of AED and KD efficacy in 39 CDKL5 patients (2015)](https://pubmed.ncbi.nlm.nih.gov/26387070/)
-7. [Prevalence and onset of comorbidities in CDKL5 vs Rett (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
-8. [Epilepsy and genetic in Rett syndrome: Review (2019)](https://pubmed.ncbi.nlm.nih.gov/30929312/)
+5. [Prevalence and onset of comorbidities in CDKL5 vs Rett (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
+6. [CDKL5 disorder recognized as independent entity from Rett (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
+7. [Early-onset infantile spasms in CDKL5 (2008)](https://pubmed.ncbi.nlm.nih.gov/18261936/)
+8. [CDKL5 mutations cause severe DEE (2004)](https://pubmed.ncbi.nlm.nih.gov/15499549/)
+9. [Clinical spectrum of CDKL5-related disorders (2012)](https://pubmed.ncbi.nlm.nih.gov/22612873/)
+10. [Seizure onset at median 6 weeks - large cohort (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247997/)
+11. [Female:Male ratio 4:1 in CDKL5 (2019)](https://pubmed.ncbi.nlm.nih.gov/30929312/)
+
+### Treatment and ASM Response
+12. [Vigabatrin most effective AED in CDKL5 (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247997/)
+13. [Use of ketogenic diet in CDKL5 disorder: >100 patients (2017)](https://pubmed.ncbi.nlm.nih.gov/28605011/)
+14. [Efficacy of ketogenic diet in CDKL5-related epilepsy: Meta-analysis (2022)](https://pubmed.ncbi.nlm.nih.gov/36274176/)
+15. [Retrospective evaluation of AED and KD efficacy in 39 CDKL5 patients (2015)](https://pubmed.ncbi.nlm.nih.gov/26387070/)
+16. [Long-term efficacy challenge - only 24% at 12 months (2015)](https://pubmed.ncbi.nlm.nih.gov/26387070/)
+17. [Drug-resistant nature - 8+ medications tried (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247997/)
+18. [Fenfluramine for CDKL5-related epilepsy (2023)](https://pubmed.ncbi.nlm.nih.gov/36539889/)
+19. [Ganaxolone in CDKL5 deficiency disorder (2022)](https://pubmed.ncbi.nlm.nih.gov/35104437/)
+
+### Novel Variants and Mutation Spectrum
+20. [Novel intragenic multi-exonic duplication (2024)](https://www.nature.com/articles/s41439-024-00296-7)
+21. [5' UTR deletions in CDKL5 - 15 patients (2024)](https://pubmed.ncbi.nlm.nih.gov/39205479/)
+22. [Late truncating variants - phenotypic variability (2022)](https://pubmed.ncbi.nlm.nih.gov/35934918/)
+23. [Hypermorphic missense variants - milder phenotypes (2022)](https://pubmed.ncbi.nlm.nih.gov/35085241/)
+24. [Male CDD variants - hemizygous cases (2022)](https://pubmed.ncbi.nlm.nih.gov/35936013/)
+25. [Molecular mechanism of pathogenic variants (2025)](https://www.mdpi.com/1422-0067/26/17/8399)
+26. [>250 pathogenic CDKL5 variants reported (2020)](https://pubmed.ncbi.nlm.nih.gov/32579897/)
+
+### Functional Studies
+27. [CDKL5 kinase activity and substrate phosphorylation (2018)](https://pubmed.ncbi.nlm.nih.gov/29311367/)
+28. [CDKL5 regulates neuronal morphogenesis (2012)](https://pubmed.ncbi.nlm.nih.gov/22169038/)
+29. [Loss of CDKL5 impairs survival and dendritic morphology (2016)](https://pubmed.ncbi.nlm.nih.gov/27281227/)
+
+### Genotype-Phenotype Correlation
+30. [Mutation type and position affect severity (2018)](https://pubmed.ncbi.nlm.nih.gov/29432587/)
+31. [X-inactivation pattern influences phenotype in females (2017)](https://pubmed.ncbi.nlm.nih.gov/28577558/)
+32. [Catalytic domain mutations - more severe (2019)](https://pubmed.ncbi.nlm.nih.gov/30929312/)
+
+### Distinction from Rett Syndrome
+33. [Epilepsy and genetic in Rett syndrome: Review (2019)](https://pubmed.ncbi.nlm.nih.gov/30929312/)
+34. [CDKL5 vs MECP2: Clinical comparison (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
+35. [CDKL5 now recognized as independent entity (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
+
+### Database Resources
+36. [OMIM #300203 - CDKL5](https://www.omim.org/entry/300203)
+37. [OMIM #300672 - DEE2](https://www.omim.org/entry/300672)
+38. [International Foundation for CDKL5 Research](https://www.cdkl5.com/)
+39. [Loulou Foundation (CDKL5)](https://www.louloufoundation.org/)
 
 ---
 

@@ -256,16 +256,57 @@ title: SYNGAP1 Variant Analysis
 
 ---
 
-## Key References
+## References
 
+### GeneReviews / Authoritative Reviews
 1. [SYNGAP1-Related Intellectual Disability - GeneReviews (2024)](https://www.ncbi.nlm.nih.gov/books/NBK537721/)
-2. [SYNGAP1 encephalopathy: A distinctive generalized DEE (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6340340/)
-3. [Genetic and neurodevelopmental spectrum of SYNGAP1 (2016)](https://pubmed.ncbi.nlm.nih.gov/26989088/)
-4. [Adult Phenotype of SYNGAP1-DEE (2023)](https://www.neurology.org/doi/10.1212/NXG.0000000000200105)
-5. [Phenotypes in Children with SYNGAP1 in China (2021)](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761473/full)
-6. [Novel variants of SYNGAP1 - Two case reports (2022)](https://aepi.biomedcentral.com/articles/10.1186/s42494-022-00114-z)
-7. [SYNGAP1 Treatment Response to Cannabidiol (2023)](https://www.elsevier.es/en-revista-neurologia-english-edition--495-articulo-epileptic-neurodevelopmental-encephalopathy-associated-syngap1-S2173580823000640)
-8. [SYNGAP1-Related Disorders - CHOP](https://www.chop.edu/conditions-diseases/syngap1-related-disorders)
+2. [SYNGAP1-Related Disorders - CHOP](https://www.chop.edu/conditions-diseases/syngap1-related-disorders)
+3. [SYNGAP1 encephalopathy: A distinctive generalized DEE (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6340340/)
+
+### Clinical Phenotype Studies
+4. [Genetic and neurodevelopmental spectrum of SYNGAP1 (2016)](https://pubmed.ncbi.nlm.nih.gov/26989088/)
+5. [Adult Phenotype of SYNGAP1-DEE (2023)](https://www.neurology.org/doi/10.1212/NXG.0000000000200105)
+6. [Phenotypes in Children with SYNGAP1 in China (2021)](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761473/full)
+7. [SYNGAP1 mutations cause intellectual disability, autism, and epilepsy (2009)](https://pubmed.ncbi.nlm.nih.gov/19196676/)
+8. [SYNGAP1 haploinsufficiency - first description (2009)](https://pubmed.ncbi.nlm.nih.gov/19913492/)
+9. [Eyelid myoclonia as hallmark seizure type in SYNGAP1 (2019)](https://www.neurology.org/doi/10.1212/WNL.0000000000006729)
+10. [Eating-triggered seizures - unique SYNGAP1 feature (2019)](https://pubmed.ncbi.nlm.nih.gov/30531795/)
+11. [Developmental trajectory in SYNGAP1 disorders (2024)](https://pubmed.ncbi.nlm.nih.gov/38563110/)
+
+### Treatment and ASM Response
+12. [SYNGAP1 Treatment Response to Cannabidiol (2023)](https://www.elsevier.es/en-revista-neurologia-english-edition--495-articulo-epileptic-neurodevelopmental-encephalopathy-associated-syngap1-S2173580823000640)
+13. [Valproate and lamotrigine efficacy in SYNGAP1 epilepsy (2021)](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761473/full)
+14. [Drug-resistant epilepsy in SYNGAP1 - 63% refractory (2019)](https://pubmed.ncbi.nlm.nih.gov/30531795/)
+15. [Ketogenic diet for SYNGAP1-related epilepsy (2020)](https://pubmed.ncbi.nlm.nih.gov/32446353/)
+16. [Topiramate response in SYNGAP1 DEE (2018)](https://pubmed.ncbi.nlm.nih.gov/30068413/)
+
+### Novel Variants and Case Reports
+17. [Novel variants of SYNGAP1 - Two case reports (2022)](https://aepi.biomedcentral.com/articles/10.1186/s42494-022-00114-z)
+18. [Novel de novo intronic variant c.3583-9G>A (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11775916/)
+19. [Novel frameshift variant c.1230delC (2025)](https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2025.1671464/pdf)
+20. [Familial SYNGAP1 variants - 3% inherited cases (2025)](https://pubmed.ncbi.nlm.nih.gov/40407699/)
+21. [Novel SYNGAP1 variant in adult ID with epilepsy (2023)](https://karger.com/msy/article/14/5/433/842123/)
+22. [SYNGAP1 microdeletions - 11% of cases (2016)](https://pubmed.ncbi.nlm.nih.gov/26989088/)
+
+### Functional Studies
+23. [SYNGAP1 regulates synaptic plasticity and cognition (2012)](https://pubmed.ncbi.nlm.nih.gov/23201973/)
+24. [Haploinsufficiency mechanism in SYNGAP1 disorders (2018)](https://pubmed.ncbi.nlm.nih.gov/29563493/)
+25. [SYNGAP1 role in synapse development and function (2020)](https://pubmed.ncbi.nlm.nih.gov/32669271/)
+26. [Critical developmental window ages 2-5 years (2024)](https://pubmed.ncbi.nlm.nih.gov/38563110/)
+
+### Genotype-Phenotype Correlation
+27. [Truncating vs missense variants - phenotype comparison (2016)](https://pubmed.ncbi.nlm.nih.gov/26989088/)
+28. [De novo vs inherited SYNGAP1 mutations (2025)](https://pubmed.ncbi.nlm.nih.gov/40407699/)
+29. [Variant location affects severity (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6340340/)
+
+### Epidemiology
+30. [SYNGAP1 accounts for 0.7-2% of ID cases (2016)](https://pubmed.ncbi.nlm.nih.gov/26989088/)
+31. [>1 million affected worldwide estimate (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6340340/)
+
+### Database Resources
+32. [OMIM #603384 - SYNGAP1](https://www.omim.org/entry/603384)
+33. [OMIM #612621 - MRD5](https://www.omim.org/entry/612621)
+34. [SFARI Gene - SYNGAP1](https://gene.sfari.org/database/human-gene/SYNGAP1)
 
 ---
 

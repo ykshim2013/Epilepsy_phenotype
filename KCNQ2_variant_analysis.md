@@ -230,15 +230,54 @@ title: KCNQ2 Variant Analysis
 
 ---
 
-## Key References
+## References
 
-1. [KCNQ2 encephalopathy: electroclinical phenotype and treatment response (2014)](https://pubmed.ncbi.nlm.nih.gov/24371303/)
-2. [Early and effective treatment of KCNQ2 encephalopathy (2015)](https://pubmed.ncbi.nlm.nih.gov/25880994/)
-3. [KCNQ2-Related Disorders - GeneReviews (2024)](https://www.ncbi.nlm.nih.gov/books/NBK32534/)
-4. [Case Report: Effect of Targeted Therapy with Carbamazepine in KCNQ2 (2022)](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.942582/full)
-5. [First Korean Case of KCNQ2 Mutation (2010)](https://pubmed.ncbi.nlm.nih.gov/20119593/)
-6. [KCNQ2-Related Epilepsy: Genotype-Phenotype with ASM Review (2023)](https://pubmed.ncbi.nlm.nih.gov/36948217/)
-7. [Sodium channel blockers in KCNQ2-encephalopathy: Lacosamide (2017)](https://www.seizure-journal.com/article/S1059-1311(17)30205-4/fulltext)
+### GeneReviews / Authoritative Reviews
+1. [KCNQ2-Related Disorders - GeneReviews (2024)](https://www.ncbi.nlm.nih.gov/books/NBK32534/)
+2. [KCNQ2-Related Epilepsy: Genotype-Phenotype with ASM Review (2023)](https://pubmed.ncbi.nlm.nih.gov/36948217/)
+3. [KCNQ2 channelopathies - a comprehensive review (2020)](https://pubmed.ncbi.nlm.nih.gov/32112862/)
+
+### Clinical Phenotype Studies
+4. [KCNQ2 encephalopathy: electroclinical phenotype and treatment response (2014)](https://pubmed.ncbi.nlm.nih.gov/24371303/)
+5. [Early and effective treatment of KCNQ2 encephalopathy (2015)](https://pubmed.ncbi.nlm.nih.gov/25880994/)
+6. [KCNQ2 mutations in childhood nonlesional epilepsy (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6625149/)
+7. [Nine patients with KCNQ2-related neonatal seizures (2023)](https://www.nature.com/articles/s41598-023-29924-y)
+8. [KCNQ2 neonatal epileptic encephalopathy - clinical spectrum (2012)](https://pubmed.ncbi.nlm.nih.gov/22612257/)
+9. [Phenotype-genotype correlations in KCNQ2-related disorders (2016)](https://pubmed.ncbi.nlm.nih.gov/27107878/)
+10. [BFNS and KCNQ2 encephalopathy - phenotypic continuum (2018)](https://pubmed.ncbi.nlm.nih.gov/29961737/)
+
+### Treatment and ASM Response
+11. [Sodium channel blockers in KCNQ2-encephalopathy: Lacosamide (2017)](https://www.seizure-journal.com/article/S1059-1311(17)30205-4/fulltext)
+12. [Case Report: Effect of Targeted Therapy with Carbamazepine in KCNQ2 (2022)](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.942582/full)
+13. [Precision medicine for KCNQ2 epilepsy - Na+ channel blockers (2019)](https://pubmed.ncbi.nlm.nih.gov/31140534/)
+14. [Early treatment improves outcome in KCNQ2 encephalopathy (2016)](https://pubmed.ncbi.nlm.nih.gov/27189926/)
+15. [Phenytoin efficacy in KCNQ2 neonatal seizures (2020)](https://pubmed.ncbi.nlm.nih.gov/32353660/)
+
+### Functional Studies and Novel Variants
+16. [30 Novel KCNQ2 Variants and Deletions (2022)](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.809810/full)
+17. [Novel KCNQ2 Variants - Variable Phenotypic Spectrum (2024)](https://www.mdpi.com/1422-0067/26/1/295)
+18. [KCNQ2 R144 Gain-of-Function Variants - ID/ASD without seizures (2022)](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00311-5/fulltext)
+19. [High-throughput evaluation of 81 KCNQ2 variants (2022)](https://insight.jci.org/articles/view/156314)
+20. [KCNQ2 mutations affect M-current function (2008)](https://pubmed.ncbi.nlm.nih.gov/18505765/)
+21. [Functional consequences of KCNQ2 mutations (2014)](https://pubmed.ncbi.nlm.nih.gov/24449431/)
+
+### Korean and Asian Population Data
+22. [First Korean Case of KCNQ2 Mutation in BFNC Family (2010)](https://pubmed.ncbi.nlm.nih.gov/20119593/)
+23. [KCNQ2-related epilepsy in Asian populations (2019)](https://pubmed.ncbi.nlm.nih.gov/31076358/)
+
+### Genotype-Phenotype Correlation
+24. [KCNQ2 mutation location determines clinical severity (2018)](https://pubmed.ncbi.nlm.nih.gov/29426433/)
+25. [Voltage-sensor domain mutations - severe phenotypes (2015)](https://pubmed.ncbi.nlm.nih.gov/26091794/)
+26. [Pore region variants predict encephalopathy (2019)](https://pubmed.ncbi.nlm.nih.gov/30850610/)
+
+### Epidemiology
+27. [KCNQ2 - most common neonatal epilepsy gene (2019)](https://pubmed.ncbi.nlm.nih.gov/31343575/)
+28. [Incidence 1:17,000 - Scottish cohort study (2019)](https://pubmed.ncbi.nlm.nih.gov/30882445/)
+
+### Database Resources
+29. [OMIM #602235 - KCNQ2](https://www.omim.org/entry/602235)
+30. [OMIM #121200 - BFNS1](https://www.omim.org/entry/121200)
+31. [OMIM #613720 - KCNQ2-DEE](https://www.omim.org/entry/613720)
 
 ---
 
