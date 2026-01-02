@@ -17,6 +17,7 @@ title: SCN2A Variant Analysis
 ## 1. Overall Variant Summary (전체)
 
 ### 1.1 Total Variant Count (variant수)
+
 | Category | Count |
 |----------|-------|
 | **Total ClinVar Entries** | 2,978 |
@@ -33,6 +34,7 @@ title: SCN2A Variant Analysis
 - Continuous growth in case reports since widespread genetic testing adoption
 
 ### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
+
 | Ratio (Variant:Patients) | Description |
 |--------------------------|-------------|
 | 1:1 | Most common - majority are private/de novo variants |
@@ -44,6 +46,7 @@ title: SCN2A Variant Analysis
 ## 2. ClinVar Pathogenic/Likely Pathogenic (ClinVar P/LP)
 
 ### 2.1 P/LP Variant Count (variant수)
+
 | Classification | Count |
 |----------------|-------|
 | **Pathogenic** | 437 |
@@ -62,6 +65,7 @@ title: SCN2A Variant Analysis
 - Many variants identified through clinical genetic testing without publication
 
 ### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
+
 | Frequency Pattern | Examples |
 |-------------------|----------|
 | 1:1 (private) | ~70% of P/LP variants |
@@ -82,6 +86,7 @@ title: SCN2A Variant Analysis
 ### 3.1 Variant Count (variant수)
 
 #### A. ClinVar Non-P/LP Variants
+
 | Classification | Count |
 |----------------|-------|
 | Uncertain Significance (VUS) | 1,226 |
@@ -91,6 +96,7 @@ title: SCN2A Variant Analysis
 | **Subtotal ClinVar Non-P/LP** | **2,180** |
 
 #### B. Literature-Reported Variants NOT in ClinVar
+
 | Variant | Year | Functional Effect | Reference |
 |---------|------|-------------------|-----------|
 | p.K156N (c.468G>C) | 2023 | Loss-of-Function | [Frontiers Mol Neurosci](https://www.frontiersin.org/articles/10.3389/fnmol.2023.1159649/full) |
@@ -123,6 +129,7 @@ title: SCN2A Variant Analysis
 - Novel literature variants: 1:1 (single case reports with functional validation)
 
 ### 3.5 ClinVar Status Breakdown (ClinVar 유무)
+
 | Status | Count | Percentage | Notes |
 |--------|-------|------------|-------|
 | VUS | 1,226 | 41.2% | In ClinVar |
@@ -145,6 +152,7 @@ title: SCN2A Variant Analysis
 - Key study: Kim HJ et al. (2020) - SCN2A-related DEE cohort
 
 ### 4.2 Publications (전체논문수)
+
 | Reference | Year | Journal |
 |-----------|------|---------|
 | [Kim HJ et al. - SCN2A-related DEE phenotype and treatment](https://pubmed.ncbi.nlm.nih.gov/33000761/) | 2020 | Epileptic Disorders |
@@ -175,6 +183,7 @@ title: SCN2A Variant Analysis
 ### 5.2 Responsive Anti-Seizure Medications (responsive ASM)
 
 #### Gain-of-Function Variants (Early Onset < 3 months)
+
 | ASM | Efficacy | Notes |
 |-----|----------|-------|
 | **Phenytoin** | High | First-line for neonatal onset |
@@ -185,6 +194,7 @@ title: SCN2A Variant Analysis
 | **Zonisamide** | Moderate | Alternative option |
 
 #### Loss-of-Function Variants (Late Onset > 1 year)
+
 | ASM | Efficacy | Notes |
 |-----|----------|-------|
 | **Sodium channel blockers** | **AVOID** | May worsen seizures |

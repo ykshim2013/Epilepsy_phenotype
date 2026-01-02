@@ -17,6 +17,7 @@ title: KCNQ2 Variant Analysis
 ## 1. Overall Variant Summary (전체)
 
 ### 1.1 Total Variant Count (variant수)
+
 | Category | Count |
 |----------|-------|
 | **Total ClinVar Entries** | 2,493 |
@@ -34,6 +35,7 @@ title: KCNQ2 Variant Analysis
 - One of the more extensively studied neonatal epilepsy genes
 
 ### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
+
 | Ratio (Variant:Patients) | Description |
 |--------------------------|-------------|
 | 1:1 | De novo variants (predominant in DEE) |
@@ -45,6 +47,7 @@ title: KCNQ2 Variant Analysis
 ## 2. ClinVar Pathogenic/Likely Pathogenic (ClinVar P/LP)
 
 ### 2.1 P/LP Variant Count (variant수)
+
 | Classification | Count |
 |----------------|-------|
 | **Pathogenic** | 621 |
@@ -63,6 +66,7 @@ title: KCNQ2 Variant Analysis
 - Strong publication record due to clinical importance
 
 ### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
+
 | Frequency Pattern | Examples |
 |-------------------|----------|
 | 1:1 (de novo, DEE) | ~60% of P/LP variants |
@@ -83,6 +87,7 @@ title: KCNQ2 Variant Analysis
 ### 3.1 Variant Count (variant수)
 
 #### A. ClinVar Non-P/LP Variants
+
 | Classification | Count |
 |----------------|-------|
 | Uncertain Significance (VUS) | 675 |
@@ -92,6 +97,7 @@ title: KCNQ2 Variant Analysis
 | **Subtotal ClinVar Non-P/LP** | **1,540** |
 
 #### B. Literature-Reported Variants NOT in ClinVar
+
 | Variant | Year | Phenotype | Reference |
 |---------|------|-----------|-----------|
 | c.1378G>A (novel) | 2024 | Epilepsy with auditory features | [MDPI Int J Mol Sci](https://www.mdpi.com/1422-0067/26/1/295) |
@@ -126,6 +132,7 @@ title: KCNQ2 Variant Analysis
 - Novel literature variants: Variable (1:1 for rare variants, 1:multiple for familial cases)
 
 ### 3.5 ClinVar Status Breakdown (ClinVar 유무)
+
 | Status | Count | Percentage | Notes |
 |--------|-------|------------|-------|
 | VUS | 675 | 27.1% | In ClinVar |
@@ -147,6 +154,7 @@ title: KCNQ2 Variant Analysis
 - First Korean case reported: **c.1342C>T (p.Arg448X)**
 
 ### 4.2 Publications (전체논문수)
+
 | Reference | Year | Journal |
 |-----------|------|---------|
 | [First Korean Case of KCNQ2 Mutation in BFNC Family](https://pubmed.ncbi.nlm.nih.gov/20119593/) | 2010 | Journal of Korean Medical Science |
@@ -182,6 +190,7 @@ title: KCNQ2 Variant Analysis
 ### 5.2 Responsive Anti-Seizure Medications (responsive ASM)
 
 #### First-Line Treatments
+
 | ASM | Efficacy | Notes |
 |-----|----------|-------|
 | **Carbamazepine** | **High (First-Line)** | Most effective, ~40% seizure control in 2 weeks |

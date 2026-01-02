@@ -17,6 +17,7 @@ title: SYNGAP1 Variant Analysis
 ## 1. Overall Variant Summary (전체)
 
 ### 1.1 Total Variant Count (variant수)
+
 | Category | Count |
 |----------|-------|
 | **Total ClinVar Entries** | 1,833 |
@@ -36,6 +37,7 @@ title: SYNGAP1 Variant Analysis
 - Large international registries and patient communities exist
 
 ### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
+
 | Ratio (Variant:Patients) | Description |
 |--------------------------|-------------|
 | 1:1 | Most common - de novo variants predominate (~89%) |
@@ -47,6 +49,7 @@ title: SYNGAP1 Variant Analysis
 ## 2. ClinVar Pathogenic/Likely Pathogenic (ClinVar P/LP)
 
 ### 2.1 P/LP Variant Count (variant수)
+
 | Classification | Count |
 |----------------|-------|
 | **Pathogenic** | 323 |
@@ -65,6 +68,7 @@ title: SYNGAP1 Variant Analysis
 - Additional patients in clinical databases and registries
 
 ### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
+
 | Frequency Pattern | Examples |
 |-------------------|----------|
 | 1:1 (private) | ~85% of P/LP variants |
@@ -84,6 +88,7 @@ title: SYNGAP1 Variant Analysis
 ### 3.1 Variant Count (variant수)
 
 #### A. ClinVar Non-P/LP Variants
+
 | Classification | Count |
 |----------------|-------|
 | Uncertain Significance (VUS) | 566 |
@@ -93,6 +98,7 @@ title: SYNGAP1 Variant Analysis
 | **Subtotal ClinVar Non-P/LP** | **1,381** |
 
 #### B. Literature-Reported Variants NOT in ClinVar
+
 | Variant | Year | Phenotype | Reference |
 |---------|------|-----------|-----------|
 | c.3271_3272insT (p.L1091Lfs*62) | 2022 | DEE with effective drug treatment | [Acta Epileptologica](https://aepi.biomedcentral.com/articles/10.1186/s42494-022-00114-z) |
@@ -131,6 +137,7 @@ title: SYNGAP1 Variant Analysis
 - Inherited familial variants: 1:2-3 (affected family members)
 
 ### 3.5 ClinVar Status Breakdown (ClinVar 유무)
+
 | Status | Count | Percentage | Notes |
 |--------|-------|------------|-------|
 | VUS | 566 | 30.9% | In ClinVar |
@@ -224,6 +231,7 @@ title: SYNGAP1 Variant Analysis
 | **SYNGAP1-DEE** | - | Generalized epilepsy with specific features |
 
 **Seizure Types (Frequency):**
+
 | Seizure Type | Percentage |
 |--------------|------------|
 | Eyelid myoclonia with absences | 65% |

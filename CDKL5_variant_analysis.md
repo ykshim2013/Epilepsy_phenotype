@@ -17,6 +17,7 @@ title: CDKL5 Variant Analysis
 ## 1. Overall Variant Summary (전체)
 
 ### 1.1 Total Variant Count (variant수)
+
 | Category | Count |
 |----------|-------|
 | **Total ClinVar Entries** | 2,407 |
@@ -37,6 +38,7 @@ title: CDKL5 Variant Analysis
 - Female:Male ratio approximately **4:1**
 
 ### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
+
 | Ratio (Variant:Patients) | Description |
 |--------------------------|-------------|
 | 1:1 | Most common - de novo variants predominate |
@@ -48,6 +50,7 @@ title: CDKL5 Variant Analysis
 ## 2. ClinVar Pathogenic/Likely Pathogenic (ClinVar P/LP)
 
 ### 2.1 P/LP Variant Count (variant수)
+
 | Classification | Count |
 |----------------|-------|
 | **Pathogenic** | 763 |
@@ -66,6 +69,7 @@ title: CDKL5 Variant Analysis
 - Large international cohorts studied
 
 ### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
+
 | Frequency Pattern | Examples |
 |-------------------|----------|
 | 1:1 (private) | ~75% of P/LP variants |
@@ -86,6 +90,7 @@ title: CDKL5 Variant Analysis
 ### 3.1 Variant Count (variant수)
 
 #### A. ClinVar Non-P/LP Variants
+
 | Classification | Count |
 |----------------|-------|
 | Uncertain Significance (VUS) | 510 |
@@ -95,6 +100,7 @@ title: CDKL5 Variant Analysis
 | **Subtotal ClinVar Non-P/LP** | **1,338** |
 
 #### B. Literature-Reported Variants NOT in ClinVar
+
 | Variant | Year | Phenotype | Reference |
 |---------|------|-----------|-----------|
 | Novel intragenic multi-exonic duplication | 2024 | CDD | [Human Genome Variation](https://www.nature.com/articles/s41439-024-00296-7) |
@@ -130,6 +136,7 @@ title: CDKL5 Variant Analysis
 - Novel literature variants: 1:1-15 (single cases to small cohorts)
 
 ### 3.5 ClinVar Status Breakdown (ClinVar 유무)
+
 | Status | Count | Percentage | Notes |
 |--------|-------|------------|-------|
 | VUS | 510 | 21.2% | In ClinVar |
@@ -199,6 +206,7 @@ title: CDKL5 Variant Analysis
 > "Over one-quarter of the patients had tried eight or more antiepileptic medications, demonstrating the highly treatment-resistant nature of CDKL5-related epilepsy."
 
 **Long-Term Efficacy Challenge:**
+
 | Time Point | Responder Rate (>50% reduction) |
 |------------|--------------------------------|
 | 3 months | 69% (27/39) |
@@ -206,6 +214,7 @@ title: CDKL5 Variant Analysis
 | 12 months | **Only 24%** (9/38) |
 
 **Ketogenic Diet:**
+
 | Metric | Data |
 |--------|------|
 | Usage rate | 51% of patients tried KD |
@@ -229,6 +238,7 @@ title: CDKL5 Variant Analysis
 > "Initially described as an early onset seizure variant of Rett syndrome, the CDKL5 disorder is now considered as an independent entity." - [PMC, 2016](https://pubmed.ncbi.nlm.nih.gov/27080038/)
 
 **CDKL5 vs. Classical Rett Syndrome:**
+
 | Feature | CDKL5 | Rett Syndrome |
 |---------|-------|---------------|
 | Epilepsy | More common | Less common |

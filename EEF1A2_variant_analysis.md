@@ -17,6 +17,7 @@ title: EEF1A2 Variant Analysis
 ## 1. Overall Variant Summary (전체)
 
 ### 1.1 Total Variant Count (variant수)
+
 | Category | Count |
 |----------|-------|
 | **Total ClinVar Entries** | 728 |
@@ -33,6 +34,7 @@ title: EEF1A2 Variant Analysis
 - Rare disorder with limited case reports
 
 ### 1.4 Variant-to-Patient Frequency Distribution (variant별 환자수 빈도)
+
 | Ratio (Variant:Patients) | Description |
 |--------------------------|-------------|
 | 1:1 | Most common - de novo mutations predominate |
@@ -44,6 +46,7 @@ title: EEF1A2 Variant Analysis
 ## 2. ClinVar Pathogenic/Likely Pathogenic (ClinVar P/LP)
 
 ### 2.1 P/LP Variant Count (variant수)
+
 | Classification | Count |
 |----------------|-------|
 | **Pathogenic** | 69 |
@@ -62,6 +65,7 @@ title: EEF1A2 Variant Analysis
 - Many identified through clinical genetic testing without formal publication
 
 ### 2.4 Variant-to-Patient Frequency for P/LP (variant별 환자수 빈도)
+
 | Frequency Pattern | Examples |
 |-------------------|----------|
 | 1:1 (private) | ~80% of P/LP variants |
@@ -82,6 +86,7 @@ title: EEF1A2 Variant Analysis
 ### 3.1 Variant Count (variant수)
 
 #### A. ClinVar Non-P/LP Variants
+
 | Classification | Count |
 |----------------|-------|
 | Uncertain Significance (VUS) | 218 |
@@ -91,6 +96,7 @@ title: EEF1A2 Variant Analysis
 | **Subtotal ClinVar Non-P/LP** | **614** |
 
 #### B. Literature-Reported Variants NOT in ClinVar
+
 | Variant | Year | Phenotype | Reference |
 |---------|------|-----------|-----------|
 | Novel variant (respiratory phenotype) | 2022 | DEE with apneas | [PubMed 35938194](https://pubmed.ncbi.nlm.nih.gov/35938194/) |
@@ -123,6 +129,7 @@ title: EEF1A2 Variant Analysis
 - Novel literature variants: 1:1 (single case reports typical for this rare gene)
 
 ### 3.5 ClinVar Status Breakdown (ClinVar 유무)
+
 | Status | Count | Percentage | Notes |
 |--------|-------|------------|-------|
 | VUS | 218 | 29.9% | In ClinVar |
