@@ -1,3 +1,10 @@
+---
+layout: default
+title: KCNQ2 Variant Analysis
+---
+
+[← Back to Home](index.md)
+
 # KCNQ2 Variant Analysis Report
 
 **Gene:** KCNQ2 (Potassium Voltage-Gated Channel Subfamily Q Member 2)

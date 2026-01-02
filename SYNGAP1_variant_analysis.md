@@ -1,3 +1,10 @@
+---
+layout: default
+title: SYNGAP1 Variant Analysis
+---
+
+[← Back to Home](index.md)
+
 # SYNGAP1 Variant Analysis Report
 
 **Gene:** SYNGAP1 (Synaptic Ras GTPase Activating Protein 1)

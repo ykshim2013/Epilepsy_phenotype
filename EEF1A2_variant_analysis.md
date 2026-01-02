@@ -1,3 +1,10 @@
+---
+layout: default
+title: EEF1A2 Variant Analysis
+---
+
+[← Back to Home](index.md)
+
 # EEF1A2 Variant Analysis Report
 
 **Gene:** EEF1A2 (Eukaryotic Translation Elongation Factor 1 Alpha 2)

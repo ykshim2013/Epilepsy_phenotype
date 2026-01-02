@@ -1,3 +1,10 @@
+---
+layout: default
+title: CDKL5 Variant Analysis
+---
+
+[← Back to Home](index.md)
+
 # CDKL5 Variant Analysis Report
 
 **Gene:** CDKL5 (Cyclin-Dependent Kinase-Like 5)

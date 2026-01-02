@@ -1,3 +1,10 @@
+---
+layout: default
+title: SCN2A Variant Analysis
+---
+
+[← Back to Home](index.md)
+
 # SCN2A Variant Analysis Report
 
 **Gene:** SCN2A (Sodium Voltage-Gated Channel Alpha Subunit 2)
