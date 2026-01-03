@@ -168,21 +168,81 @@ title: SYNGAP1 Variant Analysis
 ## 4. Korean Patient Data (Korean patient)
 
 ### 4.1 Variant Count (variant수)
-- **No Korean-specific publications identified** in current literature search
+- **13 Korean patients** with SYNGAP1 mutations documented
+- Variants identified through gene panels and whole-exome sequencing
+- Specific variant nomenclature not published in abstract (requires full-text access)
 
 ### 4.2 Publications (전체논문수)
-- No dedicated Korean cohort studies found
-- Chinese cohort data available which may include similar populations
+
+| Year | Authors | Journal | Title | PMID |
+|------|---------|---------|-------|------|
+| 2024 | Kim HJ, Kim M, Jang S, et al. | Am J Med Genet A | SYNGAP1-related DEE: Genotypic and phenotypic characteristics and longitudinal insights | [38563110](https://pubmed.ncbi.nlm.nih.gov/38563110/) |
+| 2019 | Kang HC et al. | Ann Child Neurol | Frequently Identified Genetic DEE: A Review Focusing on Precision Medicine | [Review](https://www.annchildneurol.org/journal/view.php?doi=10.26815/acn.2019.00066) |
+
+**Key Korean Publication Details:**
+
+**Kim et al. 2024 (Seoul National University Children's Hospital)**
+- **Institution:** Department of Pediatrics, Seoul National University Children's Hospital, Seoul, Korea
+- **Corresponding Author:** WooJoong Kim, MD
+- **Study Type:** Retrospective longitudinal analysis
+- **DOI:** 10.1002/ajmg.a.63606
 
 ### 4.3 Reported Patients (전체보고 환자수)
-- Unknown - requires access to Korean patient registries
-- Cases may exist in Asian multi-center studies
+
+| Study | Institution | Patients | Age Range | Key Findings |
+|-------|-------------|----------|-----------|--------------|
+| Kim et al. 2024 | Seoul National University Children's Hospital | **13** | Pediatric (longitudinal follow-up) | First Korean cohort study |
+
+**Clinical Characteristics of Korean Cohort (n=13):**
+
+| Feature | Finding |
+|---------|---------|
+| Global developmental delay | 100% (from early infancy) |
+| Epilepsy | 77% (10/13 patients) |
+| Median seizure onset | 31 months |
+| Motor development | Independent ambulation by 3 years |
+| Language outcomes | Nonverbal to 2-3 word sentences |
+| Developmental plateau | Ages 2-5 years |
+
+**Key Clinical Insights from Korean Cohort:**
+- Developmental delay consistently preceded seizure onset
+- Language development plateaued in all patients
+- Best language outcomes: 2-3 word sentences (developmental age 2-3 years)
+- Epilepsy onset followed developmental delays (not concurrent)
+- Critical developmental window: ages 2-5 years
 
 ### 4.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
-- Data not available from published Korean sources
+- 13 patients with SYNGAP1 mutations (specific variants require full-text access)
+- De novo mutations expected based on international data (~89%)
+
+### 4.5 Unique Korean Study Contributions
+
+**Longitudinal EEG Findings (Novel Biomarker):**
+> "Longitudinal EEG data revealed a shift from occipital to frontal epileptiform discharges with age, suggesting a correlation with synaptic maturation."
+
+This finding suggests:
+- EEG evolution may serve as a biomarker for disease progression
+- Epileptiform focus shifts with brain maturation
+- Potential correlation with synaptic development patterns
+
+**Clinical Implications:**
+- Early diagnosis and intervention emphasized
+- Critical developmental window (ages 2-5) identified for intervention
+- EEG biomarkers may guide treatment timing
+
+### 4.6 Korean Review on SYNGAP1 (Severance Children's Hospital)
+
+**Kang HC et al. 2019 - Review Article**
+- **Institution:** Severance Children's Hospital, Yonsei University College of Medicine
+- **Focus:** Gene-specific therapies for developmental and epileptic encephalopathy
+- **SYNGAP1 Treatment Recommendations:**
+  - Valproate and lamotrigine most commonly prescribed
+  - 77% long-term retention on lamotrigine
+  - 64% long-term retention on valproate
+  - No targeted gene-specific therapy currently available
 
 **Reference for Asian Population:**
-- [Phenotypes in Children with SYNGAP1 Encephalopathy in China (2021)](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761473/full)
+- [Phenotypes in Children with SYNGAP1 Encephalopathy in China (2021)](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761473/full) - Similar phenotypic spectrum in Asian patients
 
 ---
 
@@ -317,6 +377,10 @@ title: SYNGAP1 Variant Analysis
 32. [OMIM #603384 - SYNGAP1](https://www.omim.org/entry/603384)
 33. [OMIM #612621 - MRD5](https://www.omim.org/entry/612621)
 34. [SFARI Gene - SYNGAP1](https://gene.sfari.org/database/human-gene/SYNGAP1)
+
+### Korean/Asian Population Studies
+35. [Kim HJ et al. 2024 - Korean SYNGAP1 cohort with longitudinal EEG findings](https://pubmed.ncbi.nlm.nih.gov/38563110/) - 13 Korean patients from Seoul National University Children's Hospital
+36. [Kang HC et al. 2019 - Korean review on genetic DEE including SYNGAP1](https://www.annchildneurol.org/journal/view.php?doi=10.26815/acn.2019.00066) - Treatment recommendations from Severance Children's Hospital
 
 ---
 

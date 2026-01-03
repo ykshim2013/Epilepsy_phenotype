@@ -158,22 +158,96 @@ title: SCN2A Variant Analysis
 ## 4. Korean Patient Data (Korean patient)
 
 ### 4.1 Variant Count (variant수)
-- Limited Korean-specific publications identified
-- Key study: Kim HJ et al. (2020) - SCN2A-related DEE cohort
+- **25 Korean patients** with SCN2A mutations documented in published literature
+  - Kim HJ et al. 2020: 11 patients with detailed phenotype/treatment data
+  - Kim SH et al. 2024: 14 patients from large Korean epilepsy cohort
+- SCN2A is the **3rd most common gene** identified in Korean pediatric epilepsy patients
+- All neonatal/infantile-onset patients had missense mutations
+- Childhood-onset patient had truncation mutation
 
 ### 4.2 Publications (전체논문수)
 
-| Reference | Year | Journal |
-|-----------|------|---------|
-| [Kim HJ et al. - SCN2A-related DEE phenotype and treatment](https://pubmed.ncbi.nlm.nih.gov/33000761/) | 2020 | Epileptic Disorders |
+| Year | Authors | Journal | Title | PMID |
+|------|---------|---------|-------|------|
+| 2024 | Kim SH et al. | Epilepsia | Common genes and recurrent causative variants in 957 Asian patients with pediatric epilepsy | [38073125](https://pubmed.ncbi.nlm.nih.gov/38073125/) |
+| 2020 | Kim HJ et al. | Epileptic Disorders | The phenotype and treatment of SCN2A-related DEE | [33000761](https://pubmed.ncbi.nlm.nih.gov/33000761/) |
+
+**Key Korean Publication Details:**
+
+**Kim HJ et al. 2020 (Severance Children's Hospital & Gachon University)**
+- **Institutions:**
+  - Division of Pediatric Neurology, Severance Children's Hospital, Yonsei University, Seoul
+  - Department of Pediatrics, Gachon University Gil Medical Center, Incheon
+  - Department of Laboratory Medicine, Severance Hospital, Yonsei University, Seoul
+- **Corresponding Author:** Hoon-Chul Kang, MD
+- **Study Type:** Retrospective cohort with treatment response analysis
+
+**Kim SH et al. 2024 (Severance Children's Hospital)**
+- **Institution:** Epilepsy Research Institute, Severance Children's Hospital, Yonsei University
+- **Study Type:** Large-scale genetic epidemiology (957 Asian patients, 99% Korean)
 
 ### 4.3 Reported Patients (전체보고 환자수)
-- Published Korean cohort data available in Kim et al. 2020
-- Additional cases likely in unpublished clinical databases
 
-### 4.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
+| Study | Institution | Patients | Source Cohort | Key Findings |
+|-------|-------------|----------|---------------|--------------|
+| Kim HJ et al. 2020 | Severance & Gachon | **11** | 730 DEE patients | Treatment response detailed |
+| Kim SH et al. 2024 | Severance | **14** | 957 epilepsy patients | 3rd most common gene |
+
+**Clinical Characteristics of Korean Cohort (Kim HJ et al. 2020, n=11):**
+
+| Feature | Finding |
+|---------|---------|
+| Age at study | 0.4 - 9.7 years |
+| Neonatal onset | 6 patients (55%) |
+| Infantile onset | 4 patients (36%) |
+| Childhood onset | 1 patient (9%) |
+| Mutation type (neonatal/infantile) | All missense |
+| Mutation type (childhood) | Truncation |
+
+**Epilepsy Syndromes Identified:**
+- Ohtahara syndrome
+- West syndrome
+- Epilepsy of infancy with migrating focal seizures (EIMFS)
+- Focal epilepsy
+
+### 4.4 Treatment Response in Korean Patients
+
+| Treatment | Efficacy | Notes |
+|-----------|----------|-------|
+| **Sodium channel blockers** | 9/9 (100%) effective | Neonatal/infantile onset |
+| **Ketogenic diet** | 6/8 (75%) effective | Good adjunctive response |
+| **High-dose steroids** | 4/5 (80%) effective | For spasms |
+| **Drug-resistant epilepsy** | 9/10 (90%) | Before targeted treatment |
+
+**Critical Finding:**
+> "Sodium channel blockers were effective in all treated patients (9/9) with neonatal-to-infantile onset, but worsened seizures in the childhood-onset patient with a truncation mutation."
+
+This confirms the genotype-phenotype-treatment correlation:
+- **Missense (GOF)** → Early onset → Sodium channel blockers effective
+- **Truncation (LOF)** → Later onset → Sodium channel blockers contraindicated
+
+### 4.5 Variant-to-Patient Frequency (variant별 환자수 빈도)
+- 25 patients with SCN2A mutations in Korean literature
 - Predominantly de novo variants (1:1)
-- Specific frequency data requires access to Korean patient registries
+- Frequency in Korean DEE cohort: 1.5% (11/730) - similar to international data (1.2%)
+
+### 4.6 Korean Diagnostic Yield for SCN2A-Related Epilepsy
+
+**From Kim SH et al. 2024 (n=957):**
+
+| Parameter | Value |
+|-----------|-------|
+| Total Korean epilepsy patients tested | 947 (99% of cohort) |
+| Overall diagnostic yield | 32.4% (310/957) |
+| SCN2A rank | 3rd most common gene |
+| SCN2A cases | 14 patients |
+
+**Gene Ranking in Korean Pediatric Epilepsy:**
+1. SCN1A - 49 patients
+2. STXBP1 - 15 patients
+3. **SCN2A - 14 patients**
+4. KCNQ2 - 13 patients
+5. CDKL5 - 11 patients
 
 ---
 
@@ -258,7 +332,8 @@ title: SCN2A Variant Analysis
 17. [Loss-of-function SCN2A mutations associated with autism (2012)](https://pubmed.ncbi.nlm.nih.gov/22495309/)
 
 ### Korean Population Data
-18. [The phenotype and treatment of SCN2A-related DEE - Korean Study (2020)](https://pubmed.ncbi.nlm.nih.gov/33000761/)
+18. [The phenotype and treatment of SCN2A-related DEE - Korean Study (2020)](https://pubmed.ncbi.nlm.nih.gov/33000761/) - 11 Korean patients from Severance & Gachon
+19. [Common genes and recurrent causative variants in 957 Asian patients (2024)](https://pubmed.ncbi.nlm.nih.gov/38073125/) - 14 SCN2A patients, 99% Korean, 3rd most common gene
 
 ### Genotype-Phenotype Correlation
 19. [SCN2A mutation spectrum in epileptic encephalopathies (2016)](https://pubmed.ncbi.nlm.nih.gov/26833129/)

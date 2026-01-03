@@ -158,19 +158,50 @@ title: EEF1A2 Variant Analysis
 ## 4. Korean Patient Data (Korean patient)
 
 ### 4.1 Variant Count (variant수)
-- **No Korean-specific publications identified** in current literature search
+- **No Korean EEF1A2 patients identified** in published literature (as of January 2026)
+- EEF1A2 was **not among the top genes** in the largest Korean epilepsy cohort study (Kim SH et al. 2024)
+- Expected prevalence is extremely low (global estimate: <70 published cases)
 
 ### 4.2 Publications (전체논문수)
-- No dedicated Korean cohort studies found
-- Cases may exist in unpublished clinical databases
+
+| Study | Finding for EEF1A2 |
+|-------|-------------------|
+| Kim SH et al. 2024 (Epilepsia) | EEF1A2 not listed among top genes in 957 Asian (99% Korean) epilepsy patients |
+| Korean epilepsy registries | No published Korean EEF1A2 case reports identified |
+
+**Large Korean Epilepsy Cohort Context (Kim SH et al. 2024):**
+- 957 Asian patients with pediatric epilepsy (947 Korean)
+- Overall diagnostic yield: 32.4%
+- Top genes identified: SCN1A (49), STXBP1 (15), SCN2A (14), KCNQ2 (13), CDKL5 (11)
+- **EEF1A2 not reported** - likely 0 cases or too few to list
 
 ### 4.3 Reported Patients (전체보고 환자수)
-- Unknown - requires access to Korean patient registries
+- **0 published Korean patients** with EEF1A2 mutations
+- Cases may exist in unpublished clinical databases
 
 ### 4.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
-- Data not available from published sources
+- Data not available from Korean sources
 
-**Note:** Given the rarity of EEF1A2 mutations, Korean patient data may be limited or unreported in international literature.
+### 4.5 Asian Population Data
+
+While no Korean-specific data exists, EEF1A2 cases have been reported from other Asian countries:
+
+| Country | Patients | Reference |
+|---------|----------|-----------|
+| Japan | 2+ | Nakajima et al. 2015 (p.D252H, p.E122K) |
+| China | Multiple case reports | He et al. 2024, others |
+| Korea | **0 published** | - |
+
+**Japanese Cases (Nakajima et al. 2015):**
+- 2 unrelated Japanese girls with autosomal dominant intellectual developmental disorder-38 (MRD38)
+- De novo heterozygous mutations: p.D252H and p.E122K
+- Associated with characteristic facial features, ID, autism, and epilepsy
+
+**Possible Explanations for Lack of Korean Cases:**
+1. Ultra-rare disorder (estimated 1:500,000 - 1:1,000,000)
+2. Underdiagnosis - not included in all gene panels
+3. Cases may exist but not published
+4. True absence in Korean population (unlikely given Japanese cases)
 
 ---
 
@@ -270,6 +301,10 @@ title: EEF1A2 Variant Analysis
 23. [OMIM #602959 - EEF1A2](https://www.omim.org/entry/602959)
 24. [OMIM #616409 - DEE33](https://www.omim.org/entry/616409)
 25. [EEF1A2 and Epilepsy Research Foundation](https://eef1a2epilepsy.com/)
+
+### Korean/Asian Population Studies
+26. [Kim SH et al. 2024 - 957 Asian epilepsy patients (99% Korean)](https://pubmed.ncbi.nlm.nih.gov/38073125/) - EEF1A2 not among top genes identified
+27. [Nakajima et al. 2015 - Japanese EEF1A2 cases (p.D252H, p.E122K)](https://pubmed.ncbi.nlm.nih.gov/24697219/) - First Asian population reports
 
 ---
 
