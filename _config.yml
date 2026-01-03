@@ -1,7 +1,7 @@
 title: Epilepsy Gene Variant Analysis
 description: Comprehensive variant analysis for SCN2A, EEF1A2, KCNQ2, SYNGAP1, CDKL5
 theme: jekyll-theme-cayman
-baseurl: "/Epilepsy_phenotype"
+baseurl: "/Epilepsy_Gene_DB"
 url: "https://ykshim2013.github.io"
 
 markdown: kramdown

@@ -2,7 +2,7 @@
 
 Comprehensive variant analysis reports for five epilepsy-related genes based on ClinVar database and published literature.
 
-**Live Site:** [https://ykshim2013.github.io/Epilepsy_phenotype/](https://ykshim2013.github.io/Epilepsy_phenotype/)
+**Live Site:** [https://ykshim2013.github.io/Epilepsy_Gene_DB/](https://ykshim2013.github.io/Epilepsy_Gene_DB/)
 
 ---
 
@@ -10,12 +10,12 @@ Comprehensive variant analysis reports for five epilepsy-related genes based on 
 
 | Gene | Page URL | QR Code |
 |------|----------|---------|
-| **Home** | [https://ykshim2013.github.io/Epilepsy_phenotype/](https://ykshim2013.github.io/Epilepsy_phenotype/) | ![Home QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_phenotype/) |
-| **SCN2A** | [https://ykshim2013.github.io/Epilepsy_phenotype/SCN2A_variant_analysis](https://ykshim2013.github.io/Epilepsy_phenotype/SCN2A_variant_analysis) | ![SCN2A QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_phenotype/SCN2A_variant_analysis) |
-| **EEF1A2** | [https://ykshim2013.github.io/Epilepsy_phenotype/EEF1A2_variant_analysis](https://ykshim2013.github.io/Epilepsy_phenotype/EEF1A2_variant_analysis) | ![EEF1A2 QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_phenotype/EEF1A2_variant_analysis) |
-| **KCNQ2** | [https://ykshim2013.github.io/Epilepsy_phenotype/KCNQ2_variant_analysis](https://ykshim2013.github.io/Epilepsy_phenotype/KCNQ2_variant_analysis) | ![KCNQ2 QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_phenotype/KCNQ2_variant_analysis) |
-| **SYNGAP1** | [https://ykshim2013.github.io/Epilepsy_phenotype/SYNGAP1_variant_analysis](https://ykshim2013.github.io/Epilepsy_phenotype/SYNGAP1_variant_analysis) | ![SYNGAP1 QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_phenotype/SYNGAP1_variant_analysis) |
-| **CDKL5** | [https://ykshim2013.github.io/Epilepsy_phenotype/CDKL5_variant_analysis](https://ykshim2013.github.io/Epilepsy_phenotype/CDKL5_variant_analysis) | ![CDKL5 QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_phenotype/CDKL5_variant_analysis) |
+| **Home** | [https://ykshim2013.github.io/Epilepsy_Gene_DB/](https://ykshim2013.github.io/Epilepsy_Gene_DB/) | ![Home QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_Gene_DB/) |
+| **SCN2A** | [https://ykshim2013.github.io/Epilepsy_Gene_DB/SCN2A_variant_analysis](https://ykshim2013.github.io/Epilepsy_Gene_DB/SCN2A_variant_analysis) | ![SCN2A QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_Gene_DB/SCN2A_variant_analysis) |
+| **EEF1A2** | [https://ykshim2013.github.io/Epilepsy_Gene_DB/EEF1A2_variant_analysis](https://ykshim2013.github.io/Epilepsy_Gene_DB/EEF1A2_variant_analysis) | ![EEF1A2 QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_Gene_DB/EEF1A2_variant_analysis) |
+| **KCNQ2** | [https://ykshim2013.github.io/Epilepsy_Gene_DB/KCNQ2_variant_analysis](https://ykshim2013.github.io/Epilepsy_Gene_DB/KCNQ2_variant_analysis) | ![KCNQ2 QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_Gene_DB/KCNQ2_variant_analysis) |
+| **SYNGAP1** | [https://ykshim2013.github.io/Epilepsy_Gene_DB/SYNGAP1_variant_analysis](https://ykshim2013.github.io/Epilepsy_Gene_DB/SYNGAP1_variant_analysis) | ![SYNGAP1 QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_Gene_DB/SYNGAP1_variant_analysis) |
+| **CDKL5** | [https://ykshim2013.github.io/Epilepsy_Gene_DB/CDKL5_variant_analysis](https://ykshim2013.github.io/Epilepsy_Gene_DB/CDKL5_variant_analysis) | ![CDKL5 QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://ykshim2013.github.io/Epilepsy_Gene_DB/CDKL5_variant_analysis) |
 
 ---
 

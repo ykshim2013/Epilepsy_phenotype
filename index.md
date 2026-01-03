@@ -93,7 +93,7 @@ Each report contains:
 
 ## Contact
 
-For questions or updates, please open an issue on the [GitHub repository](https://github.com/ykshim2013/Epilepsy_phenotype).
+For questions or updates, please open an issue on the [GitHub repository](https://github.com/ykshim2013/Epilepsy_Gene_DB).
 
 ---
 
