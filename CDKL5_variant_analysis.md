@@ -167,22 +167,85 @@ title: CDKL5 Variant Analysis
 
 ## 4. Korean Patient Data (Korean patient)
 
-### 4.1 Variant Count (variant수)
-- **No Korean-specific publications identified** in current literature search
+### 4.1 Summary of Korean CDKL5 Studies
 
-### 4.2 Publications (전체논문수)
-- No dedicated Korean cohort studies found
-- Japanese case reports available which may inform Asian phenotypes
+| Study | Year | Journal | CDKL5 Patients | Total Cohort | Phenotype |
+|-------|------|---------|----------------|--------------|-----------|
+| Ko et al. | 2018 | Front Neurol | 10 | 333 DEE patients | West syndrome (9/10), DEE |
+| Na et al. | 2020 | Brain Dev | High frequency* | 150 early-onset DEE | Neonatal/early-onset DEE |
+| Kim et al. | 2024 | Epilepsia | 11 | 957 Asian patients (99% Korean) | DEE, various phenotypes |
 
-### 4.3 Reported Patients (전체보고 환자수)
-- Unknown - requires access to Korean patient registries
-- Cases likely exist given global prevalence
+*CDKL5 among top 4 causative genes in neonatal DEE subgroup
 
-### 4.4 Variant-to-Patient Frequency (variant별 환자수 빈도)
-- Data not available from published Korean sources
+**Total Korean CDKL5 patients reported: ~21+ patients** (with potential overlap between Severance cohort studies)
 
-**Reference for Japanese Population:**
-- [A case of CDKL5 disorder: improved ADL by simple treatment strategy (2018)](https://pubmed.ncbi.nlm.nih.gov/30011151/)
+### 4.2 Variant List (Korean patients)
+
+| Variant Type | Count | Phenotype | Reference |
+|--------------|-------|-----------|-----------|
+| Missense mutations | 4 | West syndrome, DEE | [Ko 2018](https://pubmed.ncbi.nlm.nih.gov/30034340/) |
+| Nonsense mutations | 3 | West syndrome, DEE | [Ko 2018](https://pubmed.ncbi.nlm.nih.gov/30034340/) |
+| Splicing-site mutations | 3 | West syndrome, DEE | [Ko 2018](https://pubmed.ncbi.nlm.nih.gov/30034340/) |
+
+**Note:** Specific c. and p. nomenclature variants not individually published in abstracts; full variant details available in supplementary data of original publications.
+
+**Demographics (Ko 2018 study):**
+- Sex distribution: 2 males, 8 females (80% female)
+- Median seizure onset: 6.0 months (IQR: 3.0-15.0)
+- Phenotype: 9/10 (90%) had West syndrome diagnosis
+
+### 4.3 Korean CDKL5 Publications
+
+| Year | Authors | Journal | Title | DOI/Link |
+|------|---------|---------|-------|----------|
+| 2018 | Ko A, Jung DE, Kim SH, Kang HC, Lee JS, Lee ST, Choi JR, Kim HD | Front Neurol | The Efficacy of Ketogenic Diet for Specific Genetic Mutation in DEE | [10.3389/fneur.2018.00530](https://pubmed.ncbi.nlm.nih.gov/30034340/) |
+| 2020 | Na JH, Shin S, Yang D, Kim B, Kim HD, Kim S, Lee JS, Lee ST, Choi JR, Kang HC | Brain Dev | Targeted gene panel sequencing in early infantile onset DEE | [10.1016/j.braindev.2020.02.004](https://pubmed.ncbi.nlm.nih.gov/32139178/) |
+| 2024 | Kim SH, Kang HC, Lee JS, Lee ST, Choi JR, Kim HD | Epilepsia | Common genes and recurrent causative variants in 957 Asian patients with pediatric epilepsy | [10.1111/epi.17857](https://pubmed.ncbi.nlm.nih.gov/38073125/) |
+
+### 4.4 Reported Patients (전체보고 환자수)
+
+**Detailed Study Descriptions:**
+
+#### Study 1: Ko et al. 2018 - Ketogenic Diet Efficacy Study
+- **Institution:** Severance Children's Hospital, Yonsei University, Seoul
+- **Cohort:** 333 DEE patients underwent NGS panel testing; 155 tried ketogenic diet
+- **CDKL5 patients:** 10 patients (13.7% of 73 with identified mutations)
+- **Demographics:** 2 boys, 8 girls; median seizure onset 6.0 months
+- **Key finding:** CDKL5 patients showed **0% ketogenic diet responder rate** (vs. 41.4% in other West syndrome patients)
+- **Clinical implication:** Data supports avoiding KD overtreatment in CDKL5-DEE patients
+- **Variant types:** 4 missense, 3 nonsense, 3 splicing-site mutations
+
+#### Study 2: Na et al. 2020 - Early Infantile Onset DEE
+- **Institution:** Severance Children's Hospital, Yonsei University, Seoul
+- **Cohort:** 150 early infantile-onset DEE patients (seizure onset ≤3 months)
+- **Results:** CDKL5 was among the 4 major pathogenic genes (with KCNQ2, STXBP1, SCN1A)
+- **Neonatal subgroup:** CDKL5, KCNQ2, and STXBP1 accounted for 66.7% (20/30) of pathogenic variants in neonatal-onset DEE
+- **Diagnostic yield:** 34.7% (52/150) had pathogenic or likely pathogenic variants
+
+#### Study 3: Kim et al. 2024 - 957 Asian Patients
+- **Institution:** Severance Children's Hospital, Yonsei University, Seoul
+- **Cohort:** 957 Asian patients with pediatric epilepsy (99.0% Korean)
+- **CDKL5 patients:** 11 patients (5th most common causative gene)
+- **Top genes:** SCN1A (49), STXBP1 (15), SCN2A (14), KCNQ2 (13), **CDKL5 (11)**
+- **Overall diagnostic yield:** 32.4% (310/957)
+- **Age at testing:** Median 4.91 years
+
+### 4.5 Key Findings from Korean Studies
+
+**Ketogenic Diet Response in Korean CDKL5 Patients:**
+
+| Time Point | CDKL5 Responder Rate | Non-CDKL5 West Syndrome Rate |
+|------------|---------------------|------------------------------|
+| 3 months | 0% (0/10) | 41.4% |
+| 6 months | 0% (0/10) | - |
+| 12 months | 0% (0/10) | - |
+
+> "KD is effective in patients with DEE with genetic etiology, especially in patients with SCN1A, KCNQ2, STXBP1, and SCN2A mutations, but is less effective in patients with CDKL5 mutations." - Ko et al. 2018
+
+**Variant-to-Patient Frequency (Korean CDKL5):**
+- Based on 10 patients with 10 different variants (4 missense, 3 nonsense, 3 splice)
+- Predominantly private (de novo) variants
+- No recurrent hotspot variants identified in Korean cohort
 
 ---
 
@@ -323,16 +386,22 @@ title: CDKL5 Variant Analysis
 31. [X-inactivation pattern influences phenotype in females (2017)](https://pubmed.ncbi.nlm.nih.gov/28577558/)
 32. [Catalytic domain mutations - more severe (2019)](https://pubmed.ncbi.nlm.nih.gov/30929312/)
 
+### Korean/Asian Population Data
+33. [Ko A et al. Ketogenic Diet Efficacy in DEE with CDKL5 - 10 Korean patients (2018)](https://pubmed.ncbi.nlm.nih.gov/30034340/) - DOI: 10.3389/fneur.2018.00530
+34. [Na JH et al. Targeted gene panel sequencing in early infantile onset DEE (2020)](https://pubmed.ncbi.nlm.nih.gov/32139178/) - DOI: 10.1016/j.braindev.2020.02.004
+35. [Kim SH et al. Common genes in 957 Asian pediatric epilepsy patients (2024)](https://pubmed.ncbi.nlm.nih.gov/38073125/) - DOI: 10.1111/epi.17857
+36. [Kang HC et al. Efficient strategy for molecular diagnosis of intractable early-onset epilepsy (2018)](https://pubmed.ncbi.nlm.nih.gov/29390993/) - DOI: 10.1186/s12920-018-0320-7
+
 ### Distinction from Rett Syndrome
-33. [Epilepsy and genetic in Rett syndrome: Review (2019)](https://pubmed.ncbi.nlm.nih.gov/30929312/)
-34. [CDKL5 vs MECP2: Clinical comparison (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
-35. [CDKL5 now recognized as independent entity (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
+37. [Epilepsy and genetic in Rett syndrome: Review (2019)](https://pubmed.ncbi.nlm.nih.gov/30929312/)
+38. [CDKL5 vs MECP2: Clinical comparison (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
+39. [CDKL5 now recognized as independent entity (2016)](https://pubmed.ncbi.nlm.nih.gov/27080038/)
 
 ### Database Resources
-36. [OMIM #300203 - CDKL5](https://www.omim.org/entry/300203)
-37. [OMIM #300672 - DEE2](https://www.omim.org/entry/300672)
-38. [International Foundation for CDKL5 Research](https://www.cdkl5.com/)
-39. [Loulou Foundation (CDKL5)](https://www.louloufoundation.org/)
+40. [OMIM #300203 - CDKL5](https://www.omim.org/entry/300203)
+41. [OMIM #300672 - DEE2](https://www.omim.org/entry/300672)
+42. [International Foundation for CDKL5 Research](https://www.cdkl5.com/)
+43. [Loulou Foundation (CDKL5)](https://www.louloufoundation.org/)
 
 ---
 
