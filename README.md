@@ -21,15 +21,29 @@ Comprehensive variant analysis reports for five epilepsy-related genes based on 
 
 ## Summary Statistics
 
-| Gene | P | LP | P/LP* | Unique P/LP | Total ClinVar | Publications | Reported Patients | Key Phenotype |
-|------|---|----|----|-------------|---------------|--------------|-------------------|---------------|
-| SCN2A | 437 | 361 | 56 | **742** | 2,978 | >150 | >400 | DEE11, BFNIS |
-| EEF1A2 | 69 | 45 | 6 | **108** | 728 | ~30 | ~68 | DEE33 |
-| KCNQ2 | 621 | 332 | 88 | **865** | 2,493 | >200 | >500 | BFNS, KCNQ2-DEE |
-| SYNGAP1 | 323 | 129 | 20 | **432** | 1,833 | >100 | ~246 | MRD5, SYNGAP1-DEE |
-| CDKL5 | 763 | 306 | 48 | **1,021** | 2,407 | >300 | >1,000 | CDD, DEE2 |
+| Gene | Unique P/LP | Total ClinVar | Pubs | Patients | Key Phenotype |
+|------|:-----------:|:-------------:|:----:|:--------:|---------------|
+| SCN2A | **742** | 2,978 | >150 | >400 | DEE11, BFNIS |
+| EEF1A2 | **108** | 728 | ~30 | ~68 | DEE33 |
+| KCNQ2 | **865** | 2,493 | >200 | >500 | BFNS, KCNQ2-DEE |
+| SYNGAP1 | **432** | 1,833 | >100 | ~246 | MRD5, SYNGAP1-DEE |
+| CDKL5 | **1,021** | 2,407 | >300 | >1,000 | CDD, DEE2 |
 
-*P/LP = Variants with both Pathogenic and Likely Pathogenic submissions. Unique P/LP = P + LP - P/LP (to avoid double-counting).
+<details>
+<summary><strong>Detailed Variant Breakdown (P/LP/P∩LP)</strong></summary>
+
+| Gene | P | LP | P∩LP | Unique P/LP |
+|------|:---:|:---:|:----:|:-----------:|
+| SCN2A | 437 | 361 | 56 | 742 |
+| EEF1A2 | 69 | 45 | 6 | 108 |
+| KCNQ2 | 621 | 332 | 88 | 865 |
+| SYNGAP1 | 323 | 129 | 20 | 432 |
+| CDKL5 | 763 | 306 | 48 | 1,021 |
+
+*P∩LP = Variants with both Pathogenic and Likely Pathogenic submissions.*
+*Unique P/LP = P + LP - P∩LP (to avoid double-counting).*
+
+</details>
 
 ---
 
