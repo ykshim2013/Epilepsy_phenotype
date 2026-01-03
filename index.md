@@ -42,9 +42,9 @@ Each report contains:
 - Recurrent variant examples
 
 ### 3. Non-P/LP Variants (전체에서 ClinVar P/LP를 제외한)
-- ClinVar VUS/Benign/Likely Benign
+- ClinVar VUS/Benign/Likely Benign/Conflicting Classifications
 - Literature-reported variants NOT in ClinVar
-- ClinVar status breakdown
+- Distribution by ClinVar classification category
 
 ### 4. Korean Patient Data
 - Korean-specific publications
